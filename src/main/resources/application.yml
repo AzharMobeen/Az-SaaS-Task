@@ -1,0 +1,24 @@
+etisalat:
+  saas:
+    service:
+      username: saas_test
+      password: Gh7Kjas.a12w
+      url:  https://etisalat.adverit.com/etisalat_saas_test
+
+account:
+  creation:
+    uri:  /AccountCreation
+  suspension:
+    uri:  /AccountSuspension
+
+product:
+  creation:
+    uri:  /ProductCreation
+  suspension:
+    uri:  /ProductSuspension
+
+server:
+  port: 8888
+  servlet:
+    context-path: /etisalatSaasService
+
