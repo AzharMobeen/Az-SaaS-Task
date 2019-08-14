@@ -1,6 +1,6 @@
-###It's simple Spring Boot app, In which I'm using maven for build/dependencies just clean and install and run.
+### It's simple Spring Boot app, In which I'm using maven for build/dependencies just clean and install and run.
 
-####Technologies:
+#### Technologies:
   * Spring Boot     
     (For simple REST API)
   * Jackson     
@@ -12,12 +12,12 @@
   * Maven   
     (For Dependencies and build)
 
-#####How to run:
+##### How to run:
 *   Simply clone this repository.
 *   Build project by maven
 *   run jar file   
 
-######Resources: 
+###### Resources: 
     
 *   [Test with Swagger](http://localhost:8888/etisalatSaasService/swagger-ui.html)
 *   [Create Account](http://localhost:8888/etisalatSaasService/createAccount)
@@ -26,3 +26,6 @@
 *   [Suspend Product](http://localhost:8888/etisalatSaasService/suspendProduct)
     
 
+Regards,
+Azhar Mobeen
+AzharMobeen@gmail.com
