@@ -1,4 +1,4 @@
-### It's simple Spring Boot app, In which I'm using maven for build/dependencies just mvn clean, install and run.
+#### It's simple Spring Boot app, In which I'm using maven for build/dependencies just mvn clean, install and run.
 
 #### Technologies:  
 | Technology | Description |
