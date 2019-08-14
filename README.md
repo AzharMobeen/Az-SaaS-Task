@@ -1,4 +1,4 @@
-### It's simple Spring Boot app, In which I'm using maven for build/dependencies just clean and install and run.
+### It's simple Spring Boot app, In which I'm using maven for build/dependencies just mvn clean, install and run.
 
 #### Technologies:
   * Spring Boot     
@@ -8,7 +8,7 @@
   * Lombok      
     (For clean code)
   * Swagger       
-    (For Documentation and built in client api)  
+    (For Documentation and testing api)  
   * Maven   
     (For Dependencies and build)
 
