@@ -5,6 +5,8 @@
     (For simple REST API)
   * Jackson     
     (For json/java data binding)
+  * JSR-380    
+    (For Validations)
   * Lombok      
     (For clean code)
   * Swagger       
