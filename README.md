@@ -1,18 +1,14 @@
 ### It's simple Spring Boot app, In which I'm using maven for build/dependencies just mvn clean, install and run.
 
-#### Technologies:
-  * Spring Boot     
-    (For simple REST API)
-  * Jackson     
-    (For json/java data binding)
-  * JSR-380    
-    (For Validations)
-  * Lombok      
-    (For clean code)
-  * Swagger       
-    (For Documentation and testing api)  
-  * Maven   
-    (For Dependencies and build)
+#### Technologies:  
+| Technology | Description |
+----------------------------
+| Spring Boot | For simple REST API |
+| Jackson     | For json/java data binding|
+| JSR-380     | For Validations |
+| Lombok      | For clean code  |
+| Swagger     | For Documentation and testing api |
+| Maven       | For Dependencies and build |
 
 ##### How to run:
 *   Simply clone this repository.
